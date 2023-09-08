@@ -4,9 +4,6 @@
 - 🌱 I’m currently learning Systems Design and Cloud Computing.
 - 💞️ I’m looking to collaborate on working on complex problems using technology.
 - 📫 How to reach me:
-
-Feel free to connect with me here:
-
 [![Linkedin Badge](https://img.shields.io/badge/-ayubkibirio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayub-kibirio/)](https://www.linkedin.com/in/ayub-kibirio/)
 [![Youtube Badge](https://img.shields.io/badge/-ayubkibirio-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/ayubkibirio)](https://www.youtube.com/c/ayubkibirio)
 [![Medium Badge](https://img.shields.io/badge/-@ayubkibirio-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ayubkibirio/)](https://medium.com/@ayubkibirio)
@@ -38,6 +35,11 @@ Feel free to connect with me here:
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=akibirio&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akibirio&hide=TeX&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=akibirio.akibirio)
   
 <!---
 akibirio/akibirio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
