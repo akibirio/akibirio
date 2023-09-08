@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akibirio
+- 👋 Hi, I’m Ayub Kibirio
 - 👀 I’m interested in solving problems using Technology & especially Software Engineering
 - 🌱 I’m proficient in Systems Design and Software Development and I have Passion Cloud Computing.
 - 🌱 I’m currently learning Systems Design and Cloud Computing.
